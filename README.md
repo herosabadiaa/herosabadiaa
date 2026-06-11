@@ -1,12 +1,13 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a0ea601-274e-40a0-9e24-96c3853802be" alt="Banner do Perfil" width="100%">
+  <img src="https://github.com/user-attachments/assets/c70ceaac-305a-4a29-8932-814d44f23f05" alt="Banner do Perfil" width="100%">
 </p>
 
 
 
 <!--
 **herosabadiaa/herosabadiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img width="960" height="540" alt="d1adbadf4d66c4092f6e1061153ae310" src="https://github.com/user-attachments/assets/c70ceaac-305a-4a29-8932-814d44f23f05" />
+<img width="1280" height="640" alt="43e9164cfe2537bb9d6746b4d053d032" src="https://github.com/user-attachments/assets/b8efee60-437d-41bd-9633-b6aa205fdddb" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
