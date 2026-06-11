@@ -3,9 +3,9 @@
   <img src="https://github.com/user-attachments/assets/c70ceaac-305a-4a29-8932-814d44f23f05" alt="Banner do Perfil" width="100%">
 </p>
 
-![Estatísticas de herosabadiaa](https://vercel.app?username=herosabadiaa&show_icons=true&theme=radical)
+![Estatísticas de herosabadiaa](https://vercel.app/api?username=herosabadiaa&show_icons=true&theme=radical)
 
-![Linguagens de herosabadiaa](https://vercel.app?username=herosabadiaa&show_icons=true&theme=radical)
+![Linguagens de herosabadiaa](https://vercel.app/api?username=herosabadiaa&show_icons=true&theme=radical)
 
 <!--
 **herosabadiaa/herosabadiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
