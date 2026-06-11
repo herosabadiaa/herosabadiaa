@@ -8,15 +8,8 @@
 ![herosabadiaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herosabadiaa&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
 
 <hr>
-<table align="center" border="0">
-  <tr>
-    <td>
-    </td>
-    <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=herosabadiaa&theme=nightowl&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>>
-    </td>
-  </tr>
-</table>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=herosabadiaa&theme=nightowl&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 <!--
 **herosabadiaa/herosabadiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
