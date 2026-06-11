@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b8efee60-437d-41bd-9633-b6aa205fdddb" alt="Banner do Perfil" width="100%">
+  <img src="https://github.com/user-attachments/assets/46380738-087d-41a8-b0fb-cea8406f824f" alt="Banner do Perfil" width="100%">
 </p>
 
 
