@@ -6,6 +6,8 @@
 
 ![herosabadiaa's Stats](https://github-readme-stats.vercel.app/api?username=herosabadiaa&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 ![herosabadiaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herosabadiaa&theme=nightowl&show_icons=true&hide_border=false&layout=compact)
+
+<hr>
 <!--
 **herosabadiaa/herosabadiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="960" height="540" alt="d1adbadf4d66c4092f6e1061153ae310" src="https://github.com/user-attachments/assets/c70ceaac-305a-4a29-8932-814d44f23f05" />
