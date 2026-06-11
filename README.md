@@ -9,7 +9,6 @@
 
 <hr>
 
-[![HitCount](https://hits.dwyl.com/herosabadiaa/herosabadiaa.svg?style=flat-square)](http://hits.dwyl.com/herosabadiaa/herosabadiaa)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=herosabadiaa&theme=nightowl&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
