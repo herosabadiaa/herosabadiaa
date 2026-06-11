@@ -11,10 +11,9 @@
 <table align="center" border="0">
   <tr>
     <td>
-      <img src="https://vercel.app" alt="Estatísticas de herosabadiaa" height="195" />
     </td>
     <td>
-      <img src="https://demolab.com" alt="GitHub Streak de herosabadiaa" height="195" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=herosabadiaa&theme=nightowl&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>>
     </td>
   </tr>
 </table>
